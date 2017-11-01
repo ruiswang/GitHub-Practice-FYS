@@ -31,7 +31,7 @@ Assignment (10 pts):
 | Matt Beckman    | mdbeckman      | <https://mdbeckman.github.io/PSU-Data-Science/>   |   
 | Ciara Virgo     | cvirgo         |  https://cvirgo.github.io/PSU16/                  |
 | Beckman (in class) | mdbeckman | https://mdbeckman.github.io/Demo-Repo/
-
+| Ruisi Wang    | ruiswang         |  https://ruiswang.github.io/repodemo/             |
 <br>
 
 # Linking to other stuff 
