@@ -45,7 +45,7 @@ Assignment (10 pts):
 | Luxin Wang      | sabrinawang06  |<https://sabrinawang06.github.io/PSU16/>           |
 | Yiyun Gong | yg1088 | <https://yg1088.github.io/Repo-Demo/> |
 | Bobby Kemp    | RobertKempIII     | <https://robertkempiii.github.io/Demo-Repo/>  |  
-| Ruisi Wang     | ruiswang        |  https://ruiswang.github.io/repodemo/               |
+| Ruisi Wang     | ruiswang        |  <https://ruiswang.github.io/repodemo/>               |
 | Brian Stella    | bms6130       | https://bms6130.github.io/Repo-Demo/      |
 | Weiye Dong| dongwayne|<https://dongwayne.github.io/Report-demo/> |
 
